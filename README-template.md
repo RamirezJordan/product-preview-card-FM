@@ -22,4 +22,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - CSS Grid
 - Mobile-first workflow
 
-- Frontend Mentor - [[Jordan Ramírez]((https://www.frontendmentor.io/profile/RamirezJordan))]
+- Frontend Mentor - (https://www.frontendmentor.io/profile/RamirezJordan)
