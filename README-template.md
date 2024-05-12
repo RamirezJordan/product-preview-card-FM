@@ -9,7 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [[Add solution URL here]](https://github.com/RamirezJordan/product-preview-card-FM)
+- Solution URL: [[Add solution URL here]][(https://github.com/RamirezJordan/product-preview-card-FM)]
 - Live Site URL: [Add live site URL here]((https://product-preview-card-fmd.netlify.app/))
 
 ## My process
