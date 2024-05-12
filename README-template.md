@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-[Screenshot 2024-05-12 at 13-04-29 Frontend Mentor Product preview card component](https://github.com/RamirezJordan/product-preview-card-FM/assets/167382330/560e7d46-31f4-4503-9fa1-9c5439ac80e8)
+(https://github.com/RamirezJordan/product-preview-card-FM/assets/167382330/560e7d46-31f4-4503-9fa1-9c5439ac80e8)
 
 ### Links
 
